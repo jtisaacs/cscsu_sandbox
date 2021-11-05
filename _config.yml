@@ -70,3 +70,5 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+
+theme: jekyll-theme-minimal
