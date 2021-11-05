@@ -5,4 +5,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [CSCSU 2022]
 description: [A Computer Science Conference for CSU Undergraduates.]
-logo: logo.png
+logo: logo_.png
