@@ -1,25 +1,72 @@
-# Dependencies
-#markdown:         redcarpet
-highlighter:      rouge
+title: Conference 2020
+description: >-
+  Conference of a random organization on January 1st in Zurich, Switzerland
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-# Permalinks
-permalink:        pretty
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
 
-paginate:         5
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
 
-# Custom vars
-version:          2.1.0
+# Theme default values
+conference:
+  lang: en
+  show_errors: True
 
-github:
-  repo:           https://github.com/poole/hyde
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map:
+      enable: true
+      default_zoom: 17
+      home_coord: 47.37808, 8.53935
+      map_provider: "OpenStreetMap.Mapnik"
+
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: true
