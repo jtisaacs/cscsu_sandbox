@@ -2,6 +2,8 @@ CSCSU is an annual conference dedicated to computer science research by undergra
 
 [CSCSU 2022](./2022.html)
 
+[temp](./temp.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jtisaacs/cscsu_sandbox/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
