@@ -1,24 +1,39 @@
 # CSCSU Steering Committee
 
-## Glen Bruns
-<img src="glenn.png" width="200"/>
+<img align="left" src="glenn.png" width="200"/> 
+# &nbsp;&nbsp;&nbsp;Glenn Bruns
 
-Associate Professor, Computer Science, CSU Monterey Bay
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
-[gbruns@csumb.edu](gbruns@csumb.edu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Monterey Bay
 
-## Kyle Dewey
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gbruns@csumb.edu](gbruns@csumb.edu)
 
-<img src="kd.jpg" width="200"/>
+<br>
+<br>
+<br>
+<br>
 
-Assistant Professor, Computer Science, CSU Northridge
+<img align="left" src="kd.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Kyle Dewey
 
-[kyle.dewey@csun.edu](kyle.dewey@csun.edu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
 
-## Katya Mkrtchyan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
 
-<img src="km.png" width="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kyle.dewey@csun.edu](kyle.dewey@csun.edu) 
 
-Assistant Professor, Computer Science, CSU Northridge
+<br>
+<br>
+<br>
+<br>
+<br>
 
-[katya.mkrtchyan@csun.edu](katya.mkrtchyan@csun.edu)
+<img align="left" src="km.png" width="200"/>
+# &nbsp;&nbsp;&nbsp;Katya Mkrtchyan
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [katya.mkrtchyan@csun.edu](katya.mkrtchyan@csun.edu)

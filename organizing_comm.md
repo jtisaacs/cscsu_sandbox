@@ -1,8 +1,7 @@
 # 2022 CSCSU Organizing Committee
 
-## Glen Bruns
-
 <img align="left" src="glenn.png" width="200"/> 
+# &nbsp;&nbsp;&nbsp;Glenn Bruns
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
@@ -14,12 +13,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
-## Kyle Dewey
 <img align="left" src="kd.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Kyle Dewey
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
@@ -31,13 +28,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-## Jason Isaacs
 
 <img align="left" src="jason.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Jason Isaacs
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
@@ -50,13 +43,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-## Katya Mkrtchyan
 
 <img align="left" src="km.png" width="200"/>
+# &nbsp;&nbsp;&nbsp;Katya Mkrtchyan
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
 
