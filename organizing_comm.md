@@ -2,7 +2,7 @@
 
 ## Glen Bruns
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="left" src="glenn.png" width="200"/> 
+<img align="left" src="glenn.png" width="200"/> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
@@ -25,6 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kyle.dewey@csun.edu](kyle.dewey@csun.edu) 
+
 <br>
 <br>
 <br>
@@ -33,19 +34,17 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 ## Jason Isaacs
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="left" src="jason.jpg" width="200"/>
+<img align="left" src="jason.jpg" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Channel Islands
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [jason.isaacs@csuci.edu](jason.isaacs@csuci.edu)
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -57,7 +56,7 @@
 
 ## Katya Mkrtchyan
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="left" src="km.png" width="200"/>
+<img align="left" src="km.png" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
 
