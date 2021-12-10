@@ -1,18 +1,20 @@
+## Review Guidlines
+
 Your review must follow the following template:
 
-Summary:
+**Summary:**
 Provide a short summary (~3 - 6 sentences) of the paper.  This should be based only on what's in the paper itself, without any opinion or analysis of your own.
 
-Pros:
+**Pros:**
 Bullet points indicating good things about the paper (e.g., well-written, good results, thorough experimentation, clever idea, etc.)
 
-Cons:
+**Cons:**
 Bullet points indicating bad things about the paper (e.g., difficult to understand, improperly evaluated, unoriginal, etc.)
 
-Overall thoughts:
+**Overall thoughts:**
 Your overall thoughts on the paper.  This is free form, and should justify your scores.  This should be relatively detailed, and provide useful feedback to the authors.
 
-Detailed comments:
+**Detailed comments:**
 If there are any minor details (e.g., typos, issues which were too small to mention in overall thoughts), these should go here.  Depending on how detailed your overall thoughts are, it may be appropriate to leave this section blank.
 
 
