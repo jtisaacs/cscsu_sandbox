@@ -1,4 +1,4 @@
-##Seeking Program Committee Members for CSCSU'22
+## Seeking Program Committee Members for CSCSU'22
 
 We will be holding the second annual CSCSU conference on March 5, 2022.  This venue is specifically for CSU CS undergraduates to publish peer-reviewed research, in collaboration with CSU faculty.  As part of this process, we are looking for volunteers to serve on the program committee and provide high-quality reviews.  To help illustrate the kinds of reviews we are looking for, please see the [review template](https://cscsu-conference.github.io/Review%20Template.pdf).  Note that submitted papers can fall into one of six [paper types](https://cscsu-conference.github.io/Paper%20types%202022.pdf), and review criteria specific for each paper type are listed in the template.
 
