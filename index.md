@@ -39,7 +39,8 @@ Conference submission [Link](https://easychair.org/conferences/?conf=cscsu2022).
 
 ## Organization
 
-* [Organizing Comittee](./organizing_comm.html)
+* [Organizing Committee](./organizing_comm.html)
+* [Program Committee](./program_comm.html)
 * [Steering Committee](./steering_comm.html)
 
 ## Prior Conferences
